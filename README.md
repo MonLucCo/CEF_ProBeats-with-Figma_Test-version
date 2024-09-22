@@ -13,3 +13,9 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
 ### étape 1 : création du projet
  - Nom du fichier : `CEF_ProBeats-Wireframing Starter Kit_Etape 1.fig`
  - Description : projet _ProBeats_ établi à partir de la bibliothèque _Wireframing Starter Kit_ contenant des pages structurelles vierges à compléter pour la réalisation du sujet.
+
+### étape 2 : définir les éléments structurels du projet
+ - Page "Tools & Process" : création du flux utilisateur
+ - Page "Wireframe Lo-Fi" : pour la créations des wireframes
+ - Page "Desktop Hi-Fi" : pour le prototype du desktop
+ - Page "Mobile Hi-Fi" : pour le prototype du mobile
