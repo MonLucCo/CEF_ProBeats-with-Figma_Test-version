@@ -19,3 +19,18 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
  - Page "Wireframe Lo-Fi" : pour la créations des wireframes
  - Page "Desktop Hi-Fi" : pour le prototype du desktop
  - Page "Mobile Hi-Fi" : pour le prototype du mobile
+
+### étape 3 : définir en wireframe les éléments des cibles `desktop` et `mobile`
+ - Page "Components" : création de l'ensemble des composants avec des variantes adaptées aux cibles
+   - élémnts répétés : Footer et Header (Navbar, Step, Hero)
+   - éléments de section : 
+     - Flagship Product, Popular Product (Card Product), Testimonials, Product Page, Shopping page
+     - About Us (Stories, Benefits), Assistance (Services, FAQ)
+     - Authentication, Checkout, Payment, Thanks, Sign In, Sign Up
+     - 404-Error page
+ - Page "Wireframe Lo-Fi" : création des pages en wireframe pour les cibles `desktop` et `mobile`
+   - Page Accueil, Page Produit, Page Commande, Page A Propos, Page Assistance
+   - Fonction achat avec les étapes (steps) : Authentication (Sign In, Sign Up), Checkout, payment, Thanks
+   - Fonction Contact et Assistance
+   - Fonction Error Page 404
+ - Page "Tools & Process" : création du flux utilisateur "Buying Process"
