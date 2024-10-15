@@ -34,3 +34,5 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
    - Fonction Contact et Assistance
    - Fonction Error Page 404
  - Page "Tools & Process" : création du flux utilisateur "Buying Process"
+
+### étape 4 : restructurer le document Figma et les pages du projet `ProBeats`
