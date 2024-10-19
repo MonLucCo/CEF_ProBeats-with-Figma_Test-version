@@ -36,3 +36,16 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
  - Page "Tools & Process" : création du flux utilisateur "Buying Process"
 
 ### étape 4 : restructurer le document Figma et les pages du projet `ProBeats`
+ - Les pages du projet _ProBeats_ sont définies avec un préfixe : 
+   - `Source` pour les pages du fichier initial, `Initial` pour les premiers travaux de développement et `ProBeats` pour la version utile du projet.
+   - Dans la version de référence, seules les pages `ProBeats` seront conservées.
+ - Les composants ont été développés en 2 étapes à partir d'un kit initial
+   - Les composants du kit initial se trouvent dans les pages `Source - Components` et `Source - Building Blocks`
+   - Les composants de la version d'étude se trouvent dans les pages `Initial - Components`, `Initial - Old-Components` et `Initial _ Building Blocks`
+   - Les composants de référence se trouvent dans les pages `ProBeats - Components` et `ProBeats - Building Blocks`
+   - Tous les composants qui servent de référence sont nommés avec le préfixe `Widget`
+ - Création des pages `wireframe` pour les cibles __Desktop__ et __Mobile__
+   - Les pages pour chaque cible sont réparties en pages principales (Main Pages) et secondaire (Secondary Pages)
+   - Une animation de navigation est disponible pour les pages principales (Home, Product, About, Help, Shipping)
+   - Les pages secondaires servent pour la gestion d'erreur (Error 404) et la fonction __Achat__
+   - 
