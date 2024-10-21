@@ -48,4 +48,5 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
    - Les pages pour chaque cible sont réparties en pages principales (Main Pages) et secondaire (Secondary Pages)
    - Une animation de navigation est disponible pour les pages principales (Home, Product, About, Help, Shipping)
    - Les pages secondaires servent pour la gestion d'erreur (Error 404) et la fonction __Achat__
-   - 
+ - Création des Users Flows dans la page `ProBeats - Tools & Process`
+   - User Flow __Navigation & SHOP - Order Buying__ pour les cibles `Desktop` et `Mobile`
