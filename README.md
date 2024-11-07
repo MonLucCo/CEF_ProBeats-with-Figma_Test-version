@@ -2,7 +2,7 @@
 Etablissement de la maquette d'un site d'e-commerce (ProBeats) avec l'outil FIGMA et selon les spécifications du CEF
 
 ## Versioning du projet
-Le projet est découpé en 7 étapes. Pour chacune de ces étapes,  l'export d'un document Figma (.fig) établit l'historique du contenu à cette étape. Cet export est accessible à partir du dossier `designs`.
+Le projet est découpé en 7 étapes : 1 étape de création dans GitHub et 6 étapes de réalisation dans Figma.  Pour chacune de ces étapes dans Figma,  l'export d'un document Figma (.fig) établit l'historique du contenu à cette étape. Cet export est accessible à partir du dossier `designs`.
 La dernière étape produit la version qui répond à l'ensemble des exigences et des contraintes du projet selon les spécifications du CEF.
 
 ## Objectif du projet
@@ -60,3 +60,7 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
    - Réalisation du prototype pour chaque terminal demandé (Desktop et Mobile)
    - Scénarisation du prototype de la page d'accueil (Homepage) avec les pages de produits
      - ajout pour le mobile d'un entête iOS pour améliorer la scénarisation du prototype
+
+### étape 6 : finaliser le projet dans GitHub
+ - Réaliser à partir du fichier Figma (.fig) une version de référence avec un Tag (v1.0)
+ - Création du lien pour accéder à l'export Figma du projet.
