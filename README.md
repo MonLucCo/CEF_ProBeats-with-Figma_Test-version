@@ -1,9 +1,12 @@
 # CEF_ProBeats-with-Figma_Test-version
-Etablissement de la maquette d'un site d'e-commerce (ProBeats) avec l'outil FIGMA et selon les spécifications du CEF
+Etablissement de la maquette d'un site d'e-commerce (ProBeats) avec l'outil FIGMA et selon les spécifications du CEF.
 
 ## Versioning du projet
 Le projet est découpé en 7 étapes : 1 étape de création dans GitHub et 6 étapes de réalisation dans Figma.  Pour chacune de ces étapes dans Figma,  l'export d'un document Figma (.fig) établit l'historique du contenu à cette étape. Cet export est accessible à partir du dossier `designs`.
 La dernière étape produit la version qui répond à l'ensemble des exigences et des contraintes du projet selon les spécifications du CEF.
+
+## Version de référence
+La version de référence est : [Projet ProBeats v1.0](https://github.com/MonLucCo/CEF_ProBeats-with-Figma_Test-version/blob/main/reference/CEF_ProBeats-PerLucCo.fig)
 
 ## Objectif du projet
 Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réaliser la __maquette d'un site d'e-commerce__ d'une société fictive. La maquette se compose du `wireframe` de chaque page du site (5 pages pour _desktop_, 5 pages pour _mobile_), ainsi que du développement du `prototype` de la page d'accueil du site selon l'_identité graphique_ de l'entreprise.
@@ -66,4 +69,4 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
    - Création d'un dossier `reference`
    - Création du document de référence __CEF_ProBeats-PerLucCo.fig__
  - Création du lien pour accéder à l'export Figma du projet
-   - [Projet ProBeat v1.0](https://github.com/MonLucCo/CEF_ProBeats-with-Figma_Test-version/blob/main/reference/CEF_ProBeats-PerLucCo.fig)
+   - [Projet ProBeats v1.0](https://github.com/MonLucCo/CEF_ProBeats-with-Figma_Test-version/blob/main/reference/CEF_ProBeats-PerLucCo.fig)
