@@ -50,3 +50,13 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
    - Les pages secondaires servent pour la gestion d'erreur (Error 404) et la fonction __Achat__
  - Création des Users Flows dans la page `ProBeats - Tools & Process`
    - User Flow __Navigation & SHOP - Order Buying__ pour les cibles `Desktop` et `Mobile`
+
+### étape 5 : réaliser la version finale du projet `Probeats`
+ - Tous les composants et réalisations inutiles pour le sujet du devoir CEF sont supprimées.
+ - Chaque page Figma est réorganisée avec des sections et des frames pour améliorer la lisibilité.
+ - Réalisation du `prototype` en version colorisée et avec des images
+   - Récupérations des données fournies dans des composants __Assets__
+   - Création de la colorisation dans les variables locales
+   - Réalisation du prototype pour chaque terminal demandé (Desktop et Mobile)
+   - Scénarisation du prototype de la page d'accueil (Homepage) avec les pages de produits
+     - ajout pour le mobile d'un entête iOS pour améliorer la scénarisation du prototype
