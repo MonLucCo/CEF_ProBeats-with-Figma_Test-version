@@ -63,4 +63,7 @@ Le projet est un devoir mené dans le cadre d'une formation. Il consiste à réa
 
 ### étape 6 : finaliser le projet dans GitHub
  - Réaliser à partir du fichier Figma (.fig) une version de référence avec un Tag (v1.0)
- - Création du lien pour accéder à l'export Figma du projet.
+   - Création d'un dossier `reference`
+   - Création du document de référence __CEF_ProBeats-PerLucCo.fig__
+ - Création du lien pour accéder à l'export Figma du projet
+   - [Projet ProBeat v1.0](https://github.com/MonLucCo/CEF_ProBeats-with-Figma_Test-version/blob/main/reference/CEF_ProBeats-PerLucCo.fig)
